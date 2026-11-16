@@ -1,0 +1,15 @@
+item,category,status,priority,owner,note
+Require full-disk encryption on every work laptop,Devices,Done,High,Sample owner - IT lead,Sample item - lost laptop stays unreadable
+Keep work devices patched within 14 days,Devices,Done,High,Sample owner - IT lead,Sample item - updates applied in a fixed window
+Lock the screen automatically after 5 minutes idle,Devices,In progress,Medium,Sample owner - IT lead,Sample item - screen locks when you step away
+Use the company VPN on public Wi-Fi,Home network,Done,High,Sample owner - IT lead,Sample item - no open Wi-Fi without the VPN
+Change the home router admin password from the default,Home network,In progress,High,Sample owner - IT lead,Sample item - default router passwords are public knowledge
+Keep home Wi-Fi on WPA2 or WPA3 with a strong password,Home network,Not started,Medium,Sample owner - IT lead,Sample item - check the router security setting
+Require multi-factor sign-in for work accounts,Accounts,Done,High,Sample owner - IT lead,Sample item - second factor on every work sign-in
+"Use a password manager, no reused passwords",Accounts,In progress,Medium,Sample owner - IT lead,Sample item - one unique password per account
+Store work files only in approved cloud storage,Data handling,Done,Medium,Sample owner - IT lead,Sample item - no work files on personal drives
+Never email work files to personal accounts,Data handling,Not started,High,Sample owner - IT lead,Sample item - personal inboxes are outside company control
+Keep video calls on approved tools only,Communication,In progress,Low,Sample owner - IT lead,Sample item - one approved meeting tool for work calls
+Verify unexpected payment or credential requests by a second channel,Communication,Not started,High,Sample owner - IT lead,Sample item - call back on a known number before acting
+Return or wipe work devices on the last day,Offboarding,Done,High,Sample owner - IT lead,Sample item - devices collected as part of the leaving process
+Revoke remote access on the day someone leaves,Offboarding,In progress,Medium,Sample owner - IT lead,Sample item - access removed the same day
